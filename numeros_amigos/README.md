@@ -7,7 +7,7 @@ Este repositorio contiene la resolución del Trabajo Práctico 0 de la materia *
 2. [🚀 Optimización Realizada](#-optimización-realizada)
 3. [📉 Análisis de Complejidad](#-análisis-de-complejidad)
 4. [📊 Resultados y Rendimiento](#-resultados-y-rendimiento)
-5. [🛠️ Especificaciones Técnicas](#-especificaciones-técnicas)
+5. [🛠️ Especificaciones Técnicas](#-especificaciones)
 
 ## 📋 Descripción del Problema
 El objetivo es diseñar e implementar un algoritmo eficiente para encontrar todos los pares de **números amigos** en un rango dado $[0, MAX)$.
@@ -40,7 +40,7 @@ Las mediciones de tiempo (realizadas en Google Colab) para el algoritmo propuest
 | 200.000 | 3.8927 |
 | 250.000 | 6.3505 |
 
-## 🛠️ Especificaciones Técnicas
+## 🛠️ Especificaciones
 * **Lenguaje:** Python 3.10.
 * **Restricción:** Se mantuvo el prototipo original de la función `amigos(MAX)` para asegurar una reingeniería transparente.
 * **Números Perfectos:** Se optó por incluirlos en el resultado final para mantener la paridad con el comportamiento del código original.
