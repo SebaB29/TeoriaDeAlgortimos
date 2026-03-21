@@ -7,7 +7,7 @@ Este repositorio contiene la resolución del Trabajo Práctico 0 de la materia *
 2. [🚀 Optimización Realizada](#-optimización-realizada)
 3. [📉 Análisis de Complejidad](#-análisis-de-complejidad)
 4. [📊 Resultados y Rendimiento](#-resultados-y-rendimiento)
-5. [🛠️ Especificaciones Técnicas](#-especificaciones)
+5. [🛠️ Especificaciones](#-especificaciones)
 
 ## 📋 Descripción del Problema
 El objetivo es diseñar e implementar un algoritmo eficiente para encontrar todos los pares de **números amigos** en un rango dado $[0, MAX)$.
