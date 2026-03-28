@@ -1,22 +1,41 @@
 # 📚 Teoría de Algoritmos
 
-Este repositorio contiene ejercicios de la materia **Teoría de Algoritmos** (TB024) realizados en **Python**.
+Este repositorio centraliza una colección de desafíos algorítmicos resueltos durante la cursada de **Teoría de Algoritmos**. El objetivo principal es aplicar paradigmas avanzados para resolver problemas complejos con eficiencia temporal y espacial.
 
 ---
 
-## 📝 Descripción
+## 🛠️ Contenidos y Temarios
 
-Dentro de este repositorio, encontrarás una colección de ejercicios que abordan los siguientes temas:
+El proyecto está organizado en Jupyter Notebooks, permitiendo visualizar la lógica, el código y la complejidad de cada solución:
 
-- **División y Conquista**: Resolución de problemas dividiendo el problema principal en subproblemas más pequeños.
-- **Algoritmos Greedy**: Estrategias que construyen soluciones óptimas paso a paso, tomando decisiones locales.
-- **Backtracking**: Resolución de problemas mediante prueba y error, explorando todas las posibles soluciones.
-- **Programación Dinámica**: Métodos que resuelven problemas complejos dividiéndolos en subproblemas interdependientes.
-- **Programación Lineal**: Técnicas para optimizar funciones lineales sujetas a restricciones lineales.
-- **Redes de Transporte**: Modelos matemáticos para analizar y optimizar flujos en redes.
+| Módulo | Descripción |
+| :--- | :--- |
+| **[Divide & Conquer](./DivideAndConquer.ipynb)** | Resolución mediante la división en subproblemas independientes. |
+| **[Greedy Algorithms](./GreedyAlgorithms.ipynb)** | Decisiones locales óptimas para alcanzar un óptimo global. |
+| **[Backtracking](./Backtracking.ipynb)** | Exploración exhaustiva del espacio de soluciones con poda. |
+| **[Dynamic Programming](./DynamicProgramming.ipynb)** | Optimización de subproblemas superpuestos mediante memoización. |
+| **[Linear Programming](./LinearProgramming.ipynb)** | Optimización de funciones lineales bajo restricciones. |
+| **[Transport Networks](./TransportNetworks.ipynb)** | Modelado de flujos en redes y grafos dirigidos. |
 
 ---
 
-## 📝 Licencia
+## 📂 Proyectos Especiales
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+### 🤝 Optimización de Números Amigos
+Ubicado en la carpeta `/numeros_amigos`, este trabajo práctico se centra en la **mejora de eficiencia**. 
+* **Reto:** Optimizar un algoritmo de búsqueda de pares de números amigos.
+* **Resultado:** Reducción significativa de la complejidad computacional mediante el uso de propiedades matemáticas y estructuras de datos eficientes.
+* [Ver detalle del proyecto aquí](./numeros_amigos/README.md)
+
+---
+
+## 🚀 Cómo utilizar este repositorio
+Cada archivo `.ipynb` puede ser ejecutado directamente en **Google Colab** o de forma local utilizando Jupyter:
+
+1. Clonar el repositorio: `git clone https://github.com/SebaB29/TeoriaDeAlgoritmos.git`
+2. Abrir los notebooks en tu entorno preferido.
+
+---
+
+## ⚖️ Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
