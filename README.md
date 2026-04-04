@@ -27,6 +27,12 @@ Ubicado en la carpeta `/numeros_amigos`, este trabajo práctico se centra en la 
 * **Resultado:** Reducción significativa de la complejidad computacional mediante el uso de propiedades matemáticas y estructuras de datos eficientes.
 * [Ver detalle del proyecto aquí](./numeros_amigos/README.md)
 
+### 🧠 TP1: Paradigmas de Algoritmos
+Ubicado en la carpeta `/tp1`, este trabajo aborda los pilares fundamentales del diseño de algoritmos mediante la resolución de problemas clásicos.
+* **Desafíos:** Moneda falsa (D&C), Código Arqueológico (Greedy), Laberinto (Backtracking) y Palíndromos (Programación Dinámica).
+* **Foco:** Diseño de algoritmos desde cero y análisis de complejidad teórica.
+* [Ver detalle del TP1 aquí](./tp1/README.md)
+
 ---
 
 ## 🚀 Cómo utilizar este repositorio
