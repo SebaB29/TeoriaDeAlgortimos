@@ -51,12 +51,12 @@ Este repositorio contiene la resolución del **Trabajo Práctico 1** de la mater
 
 El equipo de trabajo para el desarrollo de este Trabajo Práctico está conformado por:
 
-| Nombre y Apellido | Padrón | GitHub |
-| :--- | :--- | :--- |
-| Integrante 1 | 00000 | [@usuario1](https://github.com/) |
-| Integrante 2 | 00000 | [@usuario2](https://github.com/) |
-| Integrante 3 | 00000 | [@usuario3](https://github.com/) |
-| Integrante 4 | 00000 | [@usuario4](https://github.com/) |
-| Integrante 5 | 00000 | [@usuario5](https://github.com/) |
+| Nombre y Apellido | Padrón |
+| :--- | :--- |
+| Sebastián Brizuela | 105288 |
+| Integrante 2 | 00000 |
+| Integrante 3 | 00000 |
+| Integrante 4 | 00000 |
+| Integrante 5 | 00000 |
 
 ---
