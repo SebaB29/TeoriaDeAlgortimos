@@ -8,7 +8,7 @@ Este repositorio contiene la resolución del **Trabajo Práctico 1** de la mater
 3. [🤖 Problema 3: Backtracking](#-problema-3-backtracking)
 4. [🧩 Problema 4: Programación Dinámica](#-problema-4-programación-dinámica)
 5. [🛠️ Especificaciones](#-especificaciones)
-6. [👥 Integrantes](#-integrantes)
+6. [👥 Equipo](#-equipo)
 
 ---
 
@@ -47,16 +47,16 @@ Este repositorio contiene la resolución del **Trabajo Práctico 1** de la mater
 * **Entorno:** Notebooks de Google Colab.
 * **Análisis de Complejidad:** Cada algoritmo incluye su correspondiente análisis teórico basado en el pseudocódigo y comparativas con los tiempos de ejecución medidos.
 
-## 👥 Integrantes
+## 👥 Equipo
 
 El equipo de trabajo para el desarrollo de este Trabajo Práctico está conformado por:
 
-| Nombre y Apellido | Padrón |
-| :--- | :--- |
-| Sebastián Brizuela | 105288 |
-| Integrante 2 | 00000 |
-| Integrante 3 | 00000 |
-| Integrante 4 | 00000 |
-| Integrante 5 | 00000 |
+| Integrante             |
+| :--------------------- |
+| Sebastián Brizuela     |
+| Nicolas Chen           |
+| Santiago Ignacio Janon |
+| Nicolas Lanseros       |
+| Joaquin Ordoñez        |
 
 ---
