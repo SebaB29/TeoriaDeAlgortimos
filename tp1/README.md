@@ -1,11 +1,12 @@
-# Trabajo Practico 1 - TDA (2026 1C)
+# 🚀 Trabajo Practico 1 (2026 1°C)
+Bienvenido al repositorio del primer Trabajo Práctico de Técnicas de Diseño de Algoritmos. Este proyecto contiene la implementación, prueba y análisis de diversos problemas utilizando distintos paradigmas algorítmicos.
 
-## Requisitos generales
+## 🛠️ Requisitos generales
 
 - Python 3.10 o superior
 - Para notebooks y graficos: numpy, scipy, matplotlib, seaborn
 
-## Estructura de la raiz
+## 📂 Estructura de la raiz
 
 - `problema_1/`: solucion de Division y Conquista + test_data + mediciones.
 - `problema_2/`: solucion Greedy + test_data + mediciones.
@@ -15,7 +16,7 @@
 
 Cada carpeta de problema contiene su propio `README.md` con formato de entrada, ejecucion y resultados.
 
-## Ejecucion rapida por problema
+## ⚡ Ejecucion rapida por problema
 
 ### Problema 1
 
@@ -47,7 +48,7 @@ bash run_test_data.sh
 
 En todos los casos, la salida por lote se guarda en `results.txt` dentro de la carpeta del problema.
 
-## Regeneracion de sets de datos
+## 🎲 Generacion de sets de datos
 
 Los problemas que tienen generador incluyen `generar_test_data.py`.
 
@@ -58,7 +59,7 @@ cd problema_4
 python3 generar_test_data.py
 ```
 
-## Notebooks de mediciones
+## 📊 Notebooks de mediciones
 
 - `problema_1/mediciones_p1.ipynb`
 - `problema_2/mediciones_p2.ipynb`
