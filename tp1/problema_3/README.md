@@ -1,4 +1,5 @@
 # 🌀 Problema 3 (Backtracking)
+Este módulo implementa un algoritmo de Backtracking para resolver el problema de encontrar la salida en un laberinto matricial, simulando el recorrido de una aspiradora inteligente.
 
 ## 🛠️ Requisitos
 
