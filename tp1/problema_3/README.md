@@ -1,11 +1,11 @@
-# Trabajo Práctico 1 - Problema 3 (Backtracking)
+# 🌀 Problema 3 (Backtracking)
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Python 3.10 o superior
 - Bibliotecas para mediciones: numpy, scipy, matplotlib, seaborn
 
-## Estructura
+## 📂 Estructura
 
 - `problema_3.py`: resolución principal del laberinto por backtracking y ejecución por archivo.
 - `generar_test_data.py`: generador de laberintos para pruebas automáticas.
@@ -13,7 +13,7 @@
 - `mediciones_p3.ipynb`: notebook de mediciones y ajuste teórico.
 - `test_data/`: casos de entrada en formato CSV matricial.
 
-## Formato de casos de prueba (`test_data/*.csv`)
+## 📝 Formato de casos de prueba (`test_data/*.csv`)
 
 Cada archivo representa una matriz rectangular con valores separados por coma:
 
@@ -31,15 +31,15 @@ X,-,S,X
 X,X,X,X
 ```
 
-## Ejecución
+## ⚡ Ejecución
 
-### Ejecutar un caso puntual
+### 🔍 Ejecutar un caso puntual
 
 ```bash
 python3 problema_3.py test_data/enunciado_8x8.csv
 ```
 
-### Ejecutar todos los casos de prueba
+### 🧪 Ejecutar todos los casos de prueba
 
 ```bash
 chmod +x run_test_data.sh
@@ -48,13 +48,13 @@ chmod +x run_test_data.sh
 
 El resultado se guarda en `results.txt`.
 
-### Regenerar casos de prueba
+### 🎲 Generar casos de prueba
 
 ```bash
 python3 generar_test_data.py
 ```
 
-## Output
+## 📤 Output
 
 Para cada archivo se informa:
 
@@ -66,7 +66,7 @@ Para cada archivo se informa:
 - laberinto original,
 - laberinto con camino marcado (si se encontró).
 
-## Notebook de mediciones
+## 📊 Notebook de mediciones
 
 El archivo `mediciones_p3.ipynb` contiene:
 
@@ -77,6 +77,6 @@ El archivo `mediciones_p3.ipynb` contiene:
 - gráfico de tiempos medidos vs curva teórica,
 - gráfico de error absoluto del ajuste.
 
-### Requisitos adicionales para notebook
+### 📓 Requisitos adicionales para notebook
 
 - Tener Jupyter disponible en el entorno de Python.
