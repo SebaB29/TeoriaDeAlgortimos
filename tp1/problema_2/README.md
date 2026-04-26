@@ -1,11 +1,12 @@
-# Trabajo Práctico 1 - Problema 2 (Greedy)
+# 💰 Problema 2 (Greedy)
+Este módulo contiene la resolución de un problema de caminos mínimos en grafos utilizando una estrategia Greedy. El objetivo es encontrar la ruta óptima de un punto de origen a todos los destinos de manera eficiente.
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Python 3.10 o superior
 - Bibliotecas: numpy, scipy, matplotlib, seaborn
 
-## Estructura
+## 📂 Estructura
 
 - `problema_2.py`: traducción directa e interactiva (mantiene el estilo del código original).
 - `problema_2_for_test.py`: versión adaptada para pruebas automáticas por archivo.
@@ -13,7 +14,7 @@
 - `run_test_data.sh`: ejecución por lote de todos los casos en `test_data`.
 - `mediciones_p2.ipynb`: notebook de mediciones y ajuste teórico.
 
-## Formato de casos de prueba (`test_data/*.txt`)
+## 📝 Formato de casos de prueba (`test_data/*.txt`)
 
 Cada archivo de entrada debe tener:
 
@@ -29,15 +30,15 @@ Ejemplo:
 ...
 ```
 
-## Ejecución
+## ⚡ Ejecución
 
-### Ejecutar un caso puntual
+### 🔍 Ejecutar un caso puntual
 
 ```bash
 python3 problema_2_for_test.py test_data/enunciado_11.txt
 ```
 
-### Ejecutar todos los casos de prueba
+### 🧪 Ejecutar todos los casos de prueba
 
 ```bash
 chmod +x run_test_data.sh
@@ -46,13 +47,13 @@ chmod +x run_test_data.sh
 
 El resultado se guarda en `results.txt`.
 
-### Regenerar casos de prueba
+### 🎲 Generar casos de prueba
 
 ```bash
 python3 generar_test_data.py
 ```
 
-## Output
+## 📤 Output
 
 La salida muestra una tabla con:
 
@@ -60,7 +61,7 @@ La salida muestra una tabla con:
 - `LLEGADA`: vértice destino
 - `DISTANCIA`: distancia mínima calculada
 
-## Notebook de mediciones
+## 📊 Notebook de mediciones
 
 El archivo `mediciones_p2.ipynb` contiene:
 
@@ -71,6 +72,6 @@ El archivo `mediciones_p2.ipynb` contiene:
 - Gráfico de tiempos medidos vs curva teórica.
 - Gráfico de error absoluto del ajuste.
 
-### Requisitos adicionales para notebook
+### 📓 Requisitos adicionales para notebook
 
 - Tener Jupyter disponible en el entorno de Python.
