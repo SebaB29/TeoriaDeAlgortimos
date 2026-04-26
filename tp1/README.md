@@ -4,19 +4,19 @@ Bienvenido al repositorio del primer Trabajo Práctico de Técnicas de Diseño d
 ## 🛠️ Requisitos generales
 
 - Python 3.10 o superior
-- Para notebooks y graficos: numpy, scipy, matplotlib, seaborn
+- Para notebooks y gráficos: numpy, scipy, matplotlib, seaborn
 
 ## 📂 Estructura de la raiz
 
-- `problema_1/`: solucion de Division y Conquista + test_data + mediciones.
-- `problema_2/`: solucion Greedy + test_data + mediciones.
-- `problema_3/`: solucion Backtracking + test_data + mediciones.
-- `problema_4/`: solucion Programacion Dinamica + test_data + mediciones.
+- `problema_1/`: solución de División y Conquista + test_data + mediciones.
+- `problema_2/`: solución Greedy + test_data + mediciones.
+- `problema_3/`: solución Backtracking + test_data + mediciones.
+- `problema_4/`: solución Programación Dinámica + test_data + mediciones.
 - `util.py`: utilidades compartidas (incluye `time_algorithm` para mediciones).
 
-Cada carpeta de problema contiene su propio `README.md` con formato de entrada, ejecucion y resultados.
+Cada carpeta de problema contiene su propio `README.md` con formato de entrada, ejecución y resultados.
 
-## ⚡ Ejecucion rapida por problema
+## ⚡ Ejecución rapida por problema
 
 ### Problema 1
 
@@ -66,4 +66,4 @@ python3 generar_test_data.py
 - `problema_3/mediciones_p3.ipynb`
 - `problema_4/mediciones_p4.ipynb`
 
-Cada notebook incluye mediciones empiricas, ajuste a curva teorica y grafico de error.
+Cada notebook incluye mediciones empíricas, ajuste a curva teórica y gráfico de error.
