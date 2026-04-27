@@ -1,0 +1,36 @@
+test_data/100.txt
+Indice esperado: 33
+Indice obtenido: 33
+Coincide: Sí
+Pesadas realizadas: 4
+
+test_data/1000.txt
+Indice esperado: 333
+Indice obtenido: 333
+Coincide: Sí
+Pesadas realizadas: 6
+
+test_data/10000.txt
+Indice esperado: 3333
+Indice obtenido: 3333
+Coincide: Sí
+Pesadas realizadas: 9
+
+test_data/500.txt
+Indice esperado: 166
+Indice obtenido: 166
+Coincide: Sí
+Pesadas realizadas: 6
+
+test_data/5000.txt
+Indice esperado: 1666
+Indice obtenido: 1666
+Coincide: Sí
+Pesadas realizadas: 8
+
+test_data/50000.txt
+Indice esperado: 16666
+Indice obtenido: 16666
+Coincide: Sí
+Pesadas realizadas: 10
+

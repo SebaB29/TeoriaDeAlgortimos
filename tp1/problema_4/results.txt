@@ -1,0 +1,49 @@
+test_data/enunciado_aracalacana.txt
+Longitud cadena: 11
+Esperado: 3
+Obtenido: 3
+Coincide: Si
+Tiempo: 0.023780 ms
+
+test_data/random_100.txt
+Longitud cadena: 100
+Esperado: 61
+Obtenido: 61
+Coincide: Si
+Tiempo: 1.023659 ms
+
+test_data/random_200.txt
+Longitud cadena: 200
+Esperado: 100
+Obtenido: 100
+Coincide: Si
+Tiempo: 2.639886 ms
+
+test_data/random_300.txt
+Longitud cadena: 300
+Esperado: 155
+Obtenido: 155
+Coincide: Si
+Tiempo: 6.149113 ms
+
+test_data/random_400.txt
+Longitud cadena: 400
+Esperado: 215
+Obtenido: 215
+Coincide: Si
+Tiempo: 12.109944 ms
+
+test_data/random_500.txt
+Longitud cadena: 500
+Esperado: 256
+Obtenido: 256
+Coincide: Si
+Tiempo: 18.627395 ms
+
+test_data/random_600.txt
+Longitud cadena: 600
+Esperado: 332
+Obtenido: 332
+Coincide: Si
+Tiempo: 29.396628 ms
+
